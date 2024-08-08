@@ -1,4 +1,4 @@
-Projeto de site de filmes usando NEXT e Typescript
+Projeto de site de filmes usando NEXT e Typescript consumindo api de filmes
 
 
 
